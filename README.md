@@ -2,7 +2,7 @@
 - 👀 I’m interested in fronend development.
 - 🌱 I’m currently learning alot of things.
 - 💞️ I’m looking to collaborate on in wed design.
-- 📫 How to reach me ...
+- 📫 Email : ameralazawi69@gmail.com
 
 <!---
 Mrcode93/Mrcode93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
