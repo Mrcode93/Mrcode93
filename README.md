@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Mrcode93
-- 👀 I’m interested in fronend development.
-- 🌱 I’m currently learning alot of things.
-- 💞️ I’m looking to collaborate on in wed design.
+### Hi there 👋, My Name is Amer Al-Azawi
+####🧑🏻‍💻 I am a front-end web developer.
+-based in Iraq. I have a passion for creating beautiful and functional websites.
+-Skills: PYTHON / SASS / JS / HTML / CSS
+- 🔭 I’m currently working on this page. 
+-My poesonal web-site: https://mrcode93.netlify.app/
 - 📫 Email : ameralazawi69@gmail.com
 
 <!---
