@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>-Hi there 👋, My Name is Amer Al-Azawi.<br><br>-🧑🏻‍💻 I am a FullStack web developer.<br><br>-based in Iraq. I have a passion for creating beautiful and functional websites.<br><br>- 🔭 I’m currently working on this page.<br><br>-My personal web-site: https://mrcodeiq.com<br><br>- 📫 Email: ameralazawi69@gmail.com
+<br>-Hi there 👋, My Name is Amer Al-Azawi.<br><br>-🧑🏻‍💻 I am a FullStack web developer.<br><br>-based in Iraq. I have a passion for creating beautiful and functional websites.<br><br>- 🔭 I’m currently working on this page.<br><br>-My personal web-site: https://mrcodeiq.netlify.app/<br><br>- 📫 Email: ameralazawi69@gmail.com
 
 
 ## 🌐 Socials:
