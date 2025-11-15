@@ -1,5 +1,5 @@
 # 💫 About Me:
--Hi there 👋<br>- My Name is Amer Farhan Ahmed.<br>-Based in Iraq. I have a passion for creating beautiful and functional websites.<br>- 👨‍💻 All of my projects are available at https://mrcodeiq.guru//<br><br>    📫 How to reach me ameralazawi69@gmail.com<br><br>    ⚡ Fun fact I'm not good ...<br>
+-Hi there 👋<br>- My Name is Amer Farhan Ahmed.<br>-Based in Iraq. I have a passion for creating beautiful and functional websites.<br>- 👨‍💻 All of my projects are available at https://urux.guru/<br><br>    📫 How to reach me ameralazawi69@gmail.com<br><br>    ⚡ Fun fact I'm not good ...<br>
 
 
 ## 🌐 Socials:
