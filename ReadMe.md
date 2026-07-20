@@ -6,7 +6,7 @@ I'm a software engineer and product builder based in Iraq 🇮🇶, focused on b
 
 I’m the founder of **URUX**, where I turn ideas into real-world digital products — from mobile applications and SaaS platforms to business management systems and AI-powered tools.
 
-🌐 **Website & Projects:** https://urux.guru
+🌐 **Website & Projects:** https://urux.dev
 📫 **Email:** [ameralazawi69@gmail.com](mailto:ameralazawi69@gmail.com)
 
 ---
