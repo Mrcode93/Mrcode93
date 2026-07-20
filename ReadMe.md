@@ -98,8 +98,8 @@ Some of the products I've been working on include:
 
 ## 🌐 Connect With Me
 
-[![Website](https://img.shields.io/badge/URUX-Website-0083B0?style=for-the-badge)](https://urux.guru)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/hlaq1)
+[![Website](https://img.shields.io/badge/URUX-Website-0083B0?style=for-the-badge)](https://urux.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mrcodeiq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/amer-farhan-226155194/)
 
 ---
