@@ -102,8 +102,6 @@ Some of the products I've been working on include:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mrcodeiq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/amer-farhan-226155194/)
 
----
 
-### ⚡ Building products. Solving problems. Turning ideas into software.
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Mrcode93\&icon=0\&color=1)
+
