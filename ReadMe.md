@@ -20,7 +20,7 @@ Some of the products I've been working on include:
 * 💰 **Dnanir** — Personal finance and expense management app
 * 💪 **UrFit** — Smart fitness and nutrition platform
 * 🍽️ **Melh** — Marketplace for homemade food
-* ⚡ **Jeebly** — Quick-commerce and local delivery platform
+* ⚡ **Hyle** — Quick-commerce and local delivery platform
 * 📋 **Cyber Task** — Internal task and operations management platform
 * 🛒 **POS Systems** — Offline-first cashier and business management solutions
 
